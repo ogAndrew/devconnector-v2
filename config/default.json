@@ -1,4 +1,5 @@
 {
   "mongoURI": "mongodb+srv://ogAndrew:B00bies95@devconnector.am2ne.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-  "jwtSecret": "orisecrettoken"
+  "jwtSecret": "orisecrettoken",
+  "githubToken": "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"
 }
